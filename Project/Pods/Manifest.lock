@@ -1,0 +1,14 @@
+PODS:
+  - AKAssetsBug (0.0.1)
+
+DEPENDENCIES:
+  - AKAssetsBug (from `..`)
+
+EXTERNAL SOURCES:
+  AKAssetsBug:
+    :path: ..
+
+SPEC CHECKSUMS:
+  AKAssetsBug: 0fb2ad98f9bd1ef27135130b31d552883cb21081
+
+COCOAPODS: 0.27.1
